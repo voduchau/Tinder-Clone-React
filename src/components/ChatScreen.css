@@ -17,3 +17,17 @@
     margin-top: 10px;
     color: gray;
 }
+.chatScreen_textUser {
+    padding: 15px;
+    background-color: #29b3cd;
+    color: white;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: 20px;
+}
+/* .chatScreen_messageUser {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    border: 1px solid black;
+} */
